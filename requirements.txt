@@ -1,0 +1,13 @@
+ctransformers
+pathlib
+dataclasses
+torch
+transformers
+fastapi
+gunicorn
+Flask 
+tensorflow
+numpy
+pillow
+httpie
+os
